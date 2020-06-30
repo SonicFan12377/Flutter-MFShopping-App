@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74846100621",
+    "firebase_url": "https://m-and-f-shopping-4b1df.firebaseio.com",
+    "project_id": "m-and-f-shopping-4b1df",
+    "storage_bucket": "m-and-f-shopping-4b1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74846100621:android:2f5acc08a8e8d036ea96c4",
+        "android_client_info": {
+          "package_name": "com.mfshopping.grocery_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74846100621-abiso1qvvvg51ijqd49m7rfpo9p7srtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MtVHLr3eOGMH5otXqzG0Vu7N4Wgtd74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74846100621-abiso1qvvvg51ijqd49m7rfpo9p7srtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
