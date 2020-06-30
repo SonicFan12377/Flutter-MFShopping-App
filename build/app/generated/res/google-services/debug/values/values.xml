@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">74846100621-abiso1qvvvg51ijqd49m7rfpo9p7srtp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://m-and-f-shopping-4b1df.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">74846100621</string>
+    <string name="google_api_key" translatable="false">AIzaSyA5MtVHLr3eOGMH5otXqzG0Vu7N4Wgtd74</string>
+    <string name="google_app_id" translatable="false">1:74846100621:android:2f5acc08a8e8d036ea96c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA5MtVHLr3eOGMH5otXqzG0Vu7N4Wgtd74</string>
+    <string name="google_storage_bucket" translatable="false">m-and-f-shopping-4b1df.appspot.com</string>
+    <string name="project_id" translatable="false">m-and-f-shopping-4b1df</string>
+</resources>
