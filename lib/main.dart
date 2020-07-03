@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_home/views/home/home.dart';
+import 'welcome_screen.dart';
+import 'login_screen.dart';
+import 'registration_screen.dart';
+import 'home.dart';
+
 
 void main() => runApp(MyApp());
 
@@ -13,8 +17,13 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Home(),
+      initialRoute: WelcomeScreen.id,
+      routes: {
+        WelcomeScreen.id: (context) => WelcomeScreen(),
+        LoginScreen.id: (context) => LoginScreen(),
+        RegistrationScreen.id: (context) => RegistrationScreen(),
+        Home.id: (context) => Home(),
+      },
     );
   }
 }
-

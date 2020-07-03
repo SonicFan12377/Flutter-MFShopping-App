@@ -7,6 +7,9 @@ import 'package:grocery_home/views/home/widgets/home_shopbycategory.dart';
 import 'package:grocery_home/views/home/widgets/home_showrecentorders.dart';
 
 class Home extends StatefulWidget {
+
+  static const String id = 'home';
+
   @override
   State<StatefulWidget> createState() {
     // TODO: implement createState
